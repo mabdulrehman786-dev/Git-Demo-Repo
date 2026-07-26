@@ -1,6 +1,4 @@
 # Git-Demo-Repo
-This is my Git Demo Tutorial Repo
-# Git-Demo-Repo
 
 > A beginner-friendly Git and GitHub practice repository for learning version control, collaboration, and repository management from scratch.
 
